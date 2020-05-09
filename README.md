@@ -10,7 +10,7 @@ Caranya :
 
 Utk soal no 2 memakai javascript.
 Caranya :
-1. Tinggal test di JSBIN lalu copykan hasil dari file Soal no 2 ke tempat teks untuk javascript.
+1. Tinggal test di jsbin.com lalu copykan hasil dari file Soal no 2 ke tempat teks untuk javascript.
 
 Untuk no. 3, no. 4A dan no. 4B belum siap dikerjakan. Kalaupun belum lulus, semoga bisa lebih baik lagi di kloter selanjutnya. 
 
